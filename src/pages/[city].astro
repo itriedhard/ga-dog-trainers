@@ -46,7 +46,7 @@ const currentYear = new Date().getFullYear();
                     {trainer.rank === 1 && <span class="badge">TOP PICK</span>}
                 </h3>
                 <p><strong>Specialty:</strong> {trainer.specialty}</p>
-                <p><strong>Credentials:</strong> {trainer.certifications}</p>
+                <p><strong>Credentials & Approach:</strong> {trainer.credentials_and_approach}</p>
                 
                 <a href={trainer.website} target="_blank" rel="noopener nofollow" class={`btn ${trainer.rank === 1 ? 'btn-gold' : ''}`}>
                     Visit {trainer.name} Website
