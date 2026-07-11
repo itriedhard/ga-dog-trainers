@@ -1,0 +1,65 @@
+[
+  {
+    "city": "Atlanta",
+    "slug": "atlanta",
+    "meta_desc": "Looking for elite dog training in Atlanta? We ranked the top local trainers based on certifications, reviews, and training styles.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Peach State K9",
+        "specialty": "Puppy Training & Socialization",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Savannah",
+    "slug": "savannah",
+    "meta_desc": "Discover the top dog trainers in Savannah, GA. From puppy basics to obedience rehab, find the right local expert.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Coastal Canine Academy",
+        "specialty": "Aggression & Leash Reactivity",
+        "certifications": "CDBC Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Augusta",
+    "slug": "augusta",
+    "meta_desc": "Vetted list of the best dog training facilities in Augusta, GA. Read reviews and find obedience classes near you.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Augusta K9 Experts",
+        "specialty": "Basic House Manners",
+        "certifications": "AKC Evaluator",
+        "website": "https://example.com"
+      }
+    ]
+  }
+]
