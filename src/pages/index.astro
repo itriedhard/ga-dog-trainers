@@ -1,1 +1,32 @@
+---
+import cityData from '../../cities.json';
+---
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Dog Training Services in Georgia</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 40px; text-align: center; }
+        h1 { color: #111; }
+        .city-link { display: inline-block; background: #f4f4f4; padding: 15px 25px; margin: 10px; border-radius: 8px; text-decoration: none; color: #333; font-weight: bold; border: 1px solid #ddd; }
+        .city-link:hover { background: #0066cc; color: #fff; }
+    </style>
+</head>
+<body>
+
+    <h1>Georgia Local Dog Trainer Directory</h1>
+    <p>Select your city below to view the top 5 vetted dog training academies, obedience professionals, and board-and-train programs in your area.</p>
+
+    <div style="margin-top: 40px;">
+        {cityData.map((item) => (
+            <a href={`/${item.slug}`} class="city-link">
+                Best Trainers in {item.city} &rarr;
+            </a>
+        ))}
+    </div>
+
+</body>
+</html>
