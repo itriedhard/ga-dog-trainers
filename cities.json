@@ -62,4 +62,25 @@
       }
     ]
   }
+  {
+    "city": "Columbus",
+    "slug": "columbus",
+    "meta_desc": "Looking for elite dog training in Columbus? We ranked the top local trainers...",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Example Columbus Trainer",
+        "specialty": "Puppy Classes",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      }
+    ]
+  }
 ]
