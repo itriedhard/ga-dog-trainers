@@ -15,6 +15,21 @@ const currentYear = new Date().getFullYear();
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<script type="application/ld+json" is:inline>
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "name": "The Best Dog Trainers in {data.city}, Georgia",
+      "description": " Vetted rankings of the top local dog obedience trainers and board & train programs in the {data.city} area.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Off Leash K9 Training"
+        }
+      ]
+    }
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Best Dog Trainers in {data.city}, GA ({currentYear} Rankings)</title>
