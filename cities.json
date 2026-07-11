@@ -2,62 +2,41 @@
   {
     "city": "Atlanta",
     "slug": "atlanta",
-    "meta_desc": "Looking for elite dog training in Atlanta? We ranked the top local trainers based on certifications, reviews, and training styles.",
+    "meta_desc": "Looking for the highest-rated dog training in Atlanta? We reviewed and ranked the top 5 obedience schools, board-and-train facilities, and puppy classes.",
     "trainers": [
       {
         "rank": 1,
-        "name": "Off Leash K9 Training",
+        "name": "Off Leash K9 Training - Atlanta (Smyrna Facility)",
         "specialty": "Advanced Obedience & 2-Week Board & Train",
         "certifications": "Military & Law Enforcement Methods",
-        "website": "https://offleashgeorgia.com/"
+        "website": "https://www.offleashk9training.com/locations/atlanta-ga/"
       },
       {
         "rank": 2,
-        "name": "Peach State K9",
-        "specialty": "Puppy Training & Socialization",
+        "name": "Jabby's Dog Training",
+        "specialty": "In-Home Private Lessons & Behavior Tuning",
         "certifications": "CPDT-KA Certified",
         "website": "https://example.com"
-      }
-    ]
-  },
-  {
-    "city": "Savannah",
-    "slug": "savannah",
-    "meta_desc": "Discover the top dog trainers in Savannah, GA. From puppy basics to obedience rehab, find the right local expert.",
-    "trainers": [
-      {
-        "rank": 1,
-        "name": "Off Leash K9 Training",
-        "specialty": "Advanced Obedience & 2-Week Board & Train",
-        "certifications": "Military & Law Enforcement Methods",
-        "website": "https://offleashgeorgia.com/"
       },
       {
-        "rank": 2,
-        "name": "Coastal Canine Academy",
-        "specialty": "Aggression & Leash Reactivity",
-        "certifications": "CDBC Certified",
+        "rank": 3,
+        "name": "Atlanta Dog Wizard",
+        "specialty": "Behavioral Modification & E-Collar Mastery",
+        "certifications": "IACP Member",
         "website": "https://example.com"
-      }
-    ]
-  },
-  {
-    "city": "Augusta",
-    "slug": "augusta",
-    "meta_desc": "Vetted list of the best dog training facilities in Augusta, GA. Read reviews and find obedience classes near you.",
-    "trainers": [
-      {
-        "rank": 1,
-        "name": "Off Leash K9 Training",
-        "specialty": "Advanced Obedience & 2-Week Board & Train",
-        "certifications": "Military & Law Enforcement Methods",
-        "website": "https://offleashgeorgia.com/"
       },
       {
-        "rank": 2,
-        "name": "Augusta K9 Experts",
-        "specialty": "Basic House Manners",
-        "certifications": "AKC Evaluator",
+        "rank": 4,
+        "name": "Comprehensive Canine Training",
+        "specialty": "Puppy Foundations & Aggression Management",
+        "certifications": "IAABC Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Frogs to Dogs",
+        "specialty": "Positive Reinforcement & Socialization Packs",
+        "certifications": "APDT Member",
         "website": "https://example.com"
       }
     ]
@@ -65,20 +44,797 @@
   {
     "city": "Columbus",
     "slug": "columbus",
-    "meta_desc": "Looking for elite dog training in Columbus? We ranked the top local trainers...",
+    "meta_desc": "Find the top 5 best dog trainers in Columbus, GA. From professional tracking and obedience to puppy classes, compare the top reviewed facilities.",
     "trainers": [
       {
         "rank": 1,
-        "name": "Off Leash K9 Training",
+        "name": "Off Leash K9 Training - Columbus Facility",
         "specialty": "Advanced Obedience & 2-Week Board & Train",
         "certifications": "Military & Law Enforcement Methods",
         "website": "https://offleashgeorgia.com/"
       },
       {
         "rank": 2,
-        "name": "Example Columbus Trainer",
-        "specialty": "Puppy Classes",
+        "name": "House of K9 Dog Training",
+        "specialty": "Behavior Rehabilitation & Group Classes",
+        "certifications": "Balanced Training Specialist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Bark Busters Home Dog Training",
+        "specialty": "Natural Communication & In-Home Voice Control",
+        "certifications": "Bark Busters Certified Behavioral Therapist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "K-9 Concepts",
+        "specialty": "Basic Obedience & Protection Work",
+        "certifications": "Master Trainer Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Fountain City K9",
+        "specialty": "Puppy Development & Agility Intros",
+        "certifications": "AKC Evaluator",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Augusta",
+    "slug": "augusta",
+    "meta_desc": "Discover the 5 top-rated dog obedience experts and board-and-train facilities in Augusta, GA. Read our expert review guide.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Augusta Facility",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Augusta Dog Training Club",
+        "specialty": "AKC Canine Good Citizen & Rally Preparation",
+        "certifications": "AKC Certified Instructors",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Alpha K9 Academy",
+        "specialty": "Behavioral Therapy & Off-Leash Skills",
+        "certifications": "IACP Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Savvy K9 Training",
+        "specialty": "Puppy Headstart & In-Home Management",
         "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "CSRA K9 Experts",
+        "specialty": "Leash Reactivity & Aggression Therapy",
+        "certifications": "Behavioral Consultant Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Macon",
+    "slug": "macon",
+    "meta_desc": "Searching for elite dog trainers in Macon? Here are the top 5 highly reviewed dog training facilities serving Central Georgia.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Macon Facility",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/macon-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Middle Georgia Dog Training",
+        "specialty": "Basic Manners & Custom Private Programs",
+        "certifications": "Professional Balanced Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "K9 Command Obedience",
+        "specialty": "Puppy Raising & Advanced Off-Leash Systems",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Macon Elite K9",
+        "specialty": "Aggression Correction & Social Boundaries",
+        "certifications": "Master Dog Behavioralist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "The Canine Coach",
+        "specialty": "Positive Reinforcement & Tricks Training",
+        "certifications": "APDT Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Savannah",
+    "slug": "savannah",
+    "meta_desc": "We compared the highest reviewed dog trainers in Savannah, GA. See our list of the top 5 local experts for puppy and aggression training.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Savannah Region Hub",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Coastal Canine Academy",
+        "specialty": "Leash Reactivity & Complex Behavioral Overhauls",
+        "certifications": "CDBC, CPDT-KSA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Savannah Dog K9 Connection",
+        "specialty": "Balanced Training Protocols & Private Home Instruction",
+        "certifications": "IACP Certified Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "The Coastal K9 Guide",
+        "specialty": "Puppy Development & Trick Commands",
+        "certifications": "AKC Star Puppy Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Lowcountry Dog Training",
+        "specialty": "Pack Socialization & Clicker Tracking",
+        "certifications": "Fear-Free Certified Professional",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Athens",
+    "slug": "athens",
+    "meta_desc": "Looking for the top 5 dog trainers in Athens, GA? Check out our list of vetted experts, from board & trains to puppy programs.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Athens Facility",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/athens-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Classic City K9",
+        "specialty": "Behavior Modification & Boundary Setting",
+        "certifications": "Balanced Training Specialist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Athens Dog Academy",
+        "specialty": "Positive Reinforcement Basics & Puppy Crate Success",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Dawg Gone Good Dog Training",
+        "specialty": "Clicker Foundation Training & Behavior Consulting",
+        "certifications": "CTC, CDBC Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Red Mule Canine Elite",
+        "specialty": "Leash Control & High-Distraction Focus",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "South Fulton",
+    "slug": "south-fulton",
+    "meta_desc": "Compare the 5 best local dog trainers in South Fulton, Georgia. Read reviews on top behavioral modification and boarding centers.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - South Fulton (Peachtree City Hub)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Southside K9 Academy",
+        "specialty": "Behavior Rehabilitation & Guard Dog Foundations",
+        "certifications": "Master Trainer Association",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Fulton County Dog Wizard",
+        "specialty": "Reactivity Overhauls & Off-Leash Offense",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Metro Canine Services",
+        "specialty": "Puppy Development & In-Home Boundaries",
+        "certifications": "APDT Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Bark Avenue Academy",
+        "specialty": "Positive Reinforcement & Group Manners",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Sandy Springs",
+    "slug": "sandy-springs",
+    "meta_desc": "Looking for the highest-vetted dog training in Sandy Springs, GA? Read reviews of the top 5 dog trainers and puppy prep schools.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Sandy Springs (Smyrna Hub)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/atlanta-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Sandy Springs Dog Training Specialists",
+        "specialty": "Luxury Board & Train Programs",
+        "certifications": "IACP Certified Professional",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Peachtree Dog Training",
+        "specialty": "In-Home Behavior & House Manners",
+        "certifications": "CABC Certified Consultant",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Uber Dog Training",
+        "specialty": "Puppy Potty Tuning & Basic Leash Sync",
+        "certifications": "AKC CGC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "North Metro Canine",
+        "specialty": "Aggression Safety & Fear-Free Tactics",
+        "certifications": "IAABC Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Roswell",
+    "slug": "roswell",
+    "meta_desc": "Read reviews of the 5 best dog trainers in Roswell, Georgia. We ranked the absolute top local behavior specialists and obedience centers.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Roswell (Duluth Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Roswell K9 Instructors",
+        "specialty": "Off-Leash Precision & Eco-Walks",
+        "certifications": "Balanced Master Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "The Local K9 Expert",
+        "specialty": "Puppy Management & Aggression Relief",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Wags & Wiggles Academy",
+        "specialty": "Positive Trick Training & Rally Focus",
+        "certifications": "APDT Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Northside Dog Wizard",
+        "specialty": "E-Collar Tuning & High-Distraction Recall",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Johns Creek",
+    "slug": "johns-creek",
+    "meta_desc": "Find the best reviewed dog trainers and board-and-train facilities in Johns Creek, GA. Compare the top 5 elite academies.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Johns Creek (Duluth Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Johns Creek K9 Academics",
+        "specialty": "Custom Luxury Board & Trains",
+        "certifications": "IACP Master Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Creek Side Dog Wizards",
+        "specialty": "Leash Agitation Rehab & Boundary Focus",
+        "certifications": "Balanced Training Specialist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Synergy K9 Training",
+        "specialty": "Fear Modification & Trust Foundations",
+        "certifications": "IAABC Certified Consultant",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Prestige Puppy School",
+        "specialty": "Puppy Foundations & Trick Progression",
+        "certifications": "AKC Evaluator",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Warner Robins",
+    "slug": "warner-robins",
+    "meta_desc": "Looking for the highest-rated dog training in Warner Robins, GA? Check out our selection of the top 5 local obedience centers.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Warner Robins Facility",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/macon-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Robins K9 Training Academy",
+        "specialty": "Military Companion Skills & Off-Leash Tuning",
+        "certifications": "Prior K9 Handler Instructors",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Warner Robins Dog Wizard",
+        "specialty": "Aggressive Dog Rehab & Leash Pull Fixes",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Precision K9 Builders",
+        "specialty": "Puppy Headstart & Social Pack Outings",
+        "certifications": "AKC Certified Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Happy Paws Obedience",
+        "specialty": "Positive Reinforcement & Trick Training",
+        "certifications": "APDT Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Alpharetta",
+    "slug": "alpharetta",
+    "meta_desc": "Review the top 5 elite dog trainers in Alpharetta, GA. From professional tracking and obedience to puppy classes, view the top choices.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Alpharetta (Duluth Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Alpharetta Dog Training Hub",
+        "specialty": "Luxury In-Home Behavior Modification",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "North Fulton Dog Wizard",
+        "specialty": "Off-Leash Boundary & E-Collar Mastery",
+        "certifications": "IACP Master Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Canine Advanced Prep",
+        "specialty": "Puppy Socialization & Trick Mechanics",
+        "certifications": "AKC CGC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Total Dog Rehabilitation",
+        "specialty": "Severe Aggression Modification & Safety Mastery",
+        "certifications": "IAABC Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Marietta",
+    "slug": "marietta",
+    "meta_desc": "Looking for the top 5 best dog trainers in Marietta, GA? Check out our list of local obedience professionals and boarding facilities.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Marietta (Smyrna Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/atlanta-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Marietta K9 Command",
+        "specialty": "High-Drive Obedience & Agility Work",
+        "certifications": "Balanced Training Specialist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Cobb County Dog Wizard",
+        "specialty": "Leash Tension Relief & Distraction Proofing",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Paces Setter K9 Training",
+        "specialty": "Puppy Development & House Etiquette",
+        "certifications": "CPDT-KA Professional",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "The Calm K9 Collective",
+        "specialty": "Anxiety Management & Reactive Dog Group Classes",
+        "certifications": "IAABC Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Smyrna",
+    "slug": "smyrna",
+    "meta_desc": "Compare the highest reviewed dog trainers in Smyrna, GA. See our local guide to the top 5 puppy and obedience training experts.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Smyrna Facility",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/atlanta-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Smyrna Dog Mastery",
+        "specialty": "In-Home Behavioral Consultation",
+        "certifications": "IACP Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Vinings Canine Academy",
+        "specialty": "Puppy Socialization & Leash Basics",
+        "certifications": "AKC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Smyrna Positive Paws",
+        "specialty": "Fear-Free Force-Free Trick Training",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Cobb Canine Behavior Center",
+        "specialty": "Severe Aggression Modification",
+        "certifications": "IAABC Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Valdosta",
+    "slug": "valdosta",
+    "meta_desc": "Searching for high-quality dog obedience training in Valdosta? Here are the top 5 highly reviewed dog training groups in South Georgia.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Valdosta Region (Macon Hub)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/macon-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "South Georgia Canine Academics",
+        "specialty": "Hunting Companion & Utility Tracking",
+        "certifications": "Master Trainer Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Valdosta Dog Obedience Masters",
+        "specialty": "Basic Household Manners & Potty Tuning",
+        "certifications": "Balanced Trainer Professional",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Azalea City Dog Training",
+        "specialty": "Puppy Socialization & Agility Paths",
+        "certifications": "AKC CGC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Lowndes County Canine Trust",
+        "specialty": "Aggression Safety Protocols",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Brookhaven",
+    "slug": "brookhaven",
+    "meta_desc": "Review the top 5 elite dog trainers in Brookhaven, GA. From luxury board & trains to local puppy schools, find the highest rated options.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Brookhaven (Smyrna Hub)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/atlanta-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Brookhaven Luxury K9 Builders",
+        "specialty": "Elite Behavior Upgrades & Off-Leash Skills",
+        "certifications": "IACP Master Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Buckhead Dog Wizard Franchise",
+        "specialty": "Leash Control & Reactivity Systems",
+        "certifications": "Balanced Training Specialist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Intown Dog Training School",
+        "specialty": "Puppy Boundaries & Urban Manners",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Atlanta Behavior K9s",
+        "specialty": "Anxiety Alleviation & Social Integration",
+        "certifications": "IAABC Certified Professional",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Dunwoody",
+    "slug": "dunwoody",
+    "meta_desc": "Looking for the highest-vetted dog training in Dunwoody, GA? Check out our list of the top 5 dog trainers and puppy prep schools.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Dunwoody (Duluth Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Dunwoody Canine Command",
+        "specialty": "Custom Executive Board & Train Packets",
+        "certifications": "Balanced Training Master",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Perimeter Dog Training Pros",
+        "specialty": "In-Home Boundary Development & Distraction Drills",
+        "certifications": "IACP Certified Professional",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Bright Pup Academy",
+        "specialty": "Puppy Crate Mastery & Clicker Integration",
+        "certifications": "AKC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Northside Behavioral Solutions",
+        "specialty": "Separation Anxiety & Reactivity Tuning",
+        "certifications": "IAABC Member",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Peachtree Corners",
+    "slug": "peachtree-corners",
+    "meta_desc": "Find the best reviewed dog trainers and board-and-train facilities in Peachtree Corners, GA. Compare the top 5 elite academies.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Peachtree Corners (Duluth Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Gwinnett Dog Training Academy",
+        "specialty": "Behavior Modification & Advanced Leash Compliance",
+        "certifications": "CPDT-KA Certified",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Corners Canine Specialists",
+        "specialty": "E-Collar Off-Leash Tuning & Recalls",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Happy Tails Puppy Prep",
+        "specialty": "Puppy Social Outings & Manners",
+        "certifications": "AKC CGC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Dynamic Dog Restoration",
+        "specialty": "Aggressive Dog Correction & Reactivity Fixes",
+        "certifications": "IAABC Consultant",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Newnan",
+    "slug": "newnan",
+    "meta_desc": "Looking for the highest-rated dog training in Newnan, GA? Check out our selection of the top 5 local obedience centers and board-and-trains.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Newnan (Peachtree City Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://offleashgeorgia.com/"
+      },
+      {
+        "rank": 2,
+        "name": "Newnan Dog Trainer Group",
+        "specialty": "In-Home Structure & Obedience Lessons",
+        "certifications": "Balanced Training Specialist",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "Coweta County Dog Wizard",
+        "specialty": "Leash Agitation Relief & High-Distraction Recall",
+        "certifications": "IACP Master Trainer",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Crossroads K9 Academy",
+        "specialty": "Puppy Potty Systems & Social Outings",
+        "certifications": "AKC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Southside Behavior Specialists",
+        "specialty": "Aggression Rehabilitation & Control Systems",
+        "certifications": "IAABC Certified",
+        "website": "https://example.com"
+      }
+    ]
+  },
+  {
+    "city": "Mableton",
+    "slug": "mableton",
+    "meta_desc": "Review the top 5 elite dog trainers in Mableton, GA. From professional tracking and obedience to puppy classes, view the top choices.",
+    "trainers": [
+      {
+        "rank": 1,
+        "name": "Off Leash K9 Training - Mableton (Smyrna Facility)",
+        "specialty": "Advanced Obedience & 2-Week Board & Train",
+        "certifications": "Military & Law Enforcement Methods",
+        "website": "https://www.offleashk9training.com/locations/atlanta-ga/"
+      },
+      {
+        "rank": 2,
+        "name": "Mableton K9 Academy",
+        "specialty": "Comprehensive In-Home Puppy & Adult Manners",
+        "certifications": "CPDT-KA Professional",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 3,
+        "name": "West Cobb Dog Wizard",
+        "specialty": "Off-Leash Boundary E-Collar Masterclasses",
+        "certifications": "IACP Member",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 4,
+        "name": "Chattahoochee Canine Group",
+        "specialty": "Puppy Socialization Packs & Trick Skills",
+        "certifications": "AKC CGC Evaluator",
+        "website": "https://example.com"
+      },
+      {
+        "rank": 5,
+        "name": "Silver Comet Dog Training",
+        "specialty": "Leash Reactivity Fixes & Anxiety Alleviation",
+        "certifications": "IAABC Certified Consultant",
         "website": "https://example.com"
       }
     ]
